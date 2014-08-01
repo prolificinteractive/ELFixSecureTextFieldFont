@@ -46,7 +46,7 @@ or in your custom TextField:
 Via [CocoaPods](http://cocoapods.org):
 
 ``` ruby
-pod 'ELFixSecureTextFieldFont', :git => 'https://github.com/elegion/ELFixSecureTextFieldFont.git'
+pod 'ELFixSecureTextFieldFont', :git => 'https://github.com/prolificinteractive/ELFixSecureTextFieldFont.git'
 ```
 
 or just add `ELFixSecureTextFieldFont/UITextField+ELFixSecureTextFieldFont` and `ELFixSecureTextFieldFont/UITextField+ELFixSecureTextFieldFont` to your project (ARC required)
